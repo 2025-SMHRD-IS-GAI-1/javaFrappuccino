@@ -7,6 +7,7 @@ public class ex01 {
 		
 		System.out.println("다시다시다시다시다시다시");
 
+		System.out.println("나는 용일");
 	}
 
 }
